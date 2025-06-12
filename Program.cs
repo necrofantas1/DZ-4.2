@@ -54,7 +54,6 @@
                 // перевіряємо, чи користувач хоче продовжити
                 if (answer.KeyChar != 'Y' && answer.KeyChar != 'y' && answer.KeyChar != 'н' && answer.KeyChar != 'Н')
 
-
                 {
                     continueProgram = false;
 
